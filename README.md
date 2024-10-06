@@ -1,1 +1,1 @@
-# Created-a-RAG-based-Gen-AI-app-using-Ollama-and-StreamLit
+# Created-a-RAG-based-Gen-AI-app-using-Ollama-and-Langchain
